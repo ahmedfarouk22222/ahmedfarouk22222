@@ -1,58 +1,58 @@
-<h1 align="center">Hi there 👋, I'm Ahmed Farouk</h1>
+<h1 align="center">Hi , I'm Ahmed Farouk</h1>
+<h3 align="center">A Passionate Flutter Developer from Egypt</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=380&lines=Flutter+Developer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer;Clean+Architecture+Enthusiast;Problem+Solver;Tech+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 I'm a CS student at October 6 University (2021 - 2025)
-- 📱 Junior Mobile App Developer specialized in **Flutter**
-- 🧠 Currently working on: `Vioguard - Real-time Violence Detection App`
-- 🔁 Rebuilding my old apps using Clean Architecture and new patterns
-- 📚 Love learning: Clean Architecture, Bloc, MVVM, Firebase, and AI in Flutter
-- 🌍 Based in Egypt
-
----
-
-### 🧰 Tech Stack
-
-- 💻 Dart, Flutter, Firebase, Retrofit, Bloc/Cubit
-- 🛠 Git & GitHub, Notion, REST APIs
-- 🧠 Practicing Problem Solving with C++
-- 📦 Packages: go_router, dartz, get_it, Google Fonts
+- 🎓 CS Student at **October 6 University** (2021–2025)  
+- 📱 **Junior Flutter Developer** with hands-on experience in real-world apps  
+- 🚀 Currently working on **Vioguard** – An AI-powered violence detection system  
+- 🛠 Focused on **Clean Architecture**, **MVVM**, **BLoC**, and **Firebase**  
+- 💡 Rebuilding old apps to enhance code quality and architecture  
+- 🌱 Learning deeply about **AI + Flutter Integration**, **State Management**, and **REST APIs**
 
 ---
 
-### 🧪 Projects
+## 🔨 Tech Stack
 
-- **Bookly App** – Google Books App with Clean Arch, Cubit, and go_router  
-- **Vioguard** – Real-time AI violence detection + alerts  
-- **Chat App** – Realtime messaging using Firebase  
-- **Note App** – Simple local storage-based note keeper  
-- **News App** – News reader with offline support  
-
-> More on my pinned repositories 👇
+- **Languages:** Dart, C++, Java (Basics)  
+- **Mobile Dev:** Flutter, Firebase, Retrofit, Hive  
+- **Architecture:** Clean Architecture, MVVM, BLoC/Cubit  
+- **Tools:** Git, GitHub, Notion, Postman  
+- **Packages:** get_it, dartz, go_router, Google Fonts  
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Highlighted Projects
+
+| Project        | Description |
+|----------------|-------------|
+| **Vioguard**   | Real-time AI-powered violence detection with alerting system using Flutter + Deep Learning. |
+| **Bookly App** | A book discovery app using Google Books API with Clean Arch & go_router. |
+| **Chat App**   | Realtime chat app with image & text messaging using Firebase & MVVM. |
+| **Note App**   | A local-storage note keeper with clean and simple UI. |
+| **News App**   | News reading app with category filtering and offline support. |
+
+> Explore more in the pinned repositories below 🔽
+
+---
+
+## 📫 Contact Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedFarouk&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFarouk&layout=compact&theme=radical" height="150" />
+  <a href="mailto:ahmedmohamedfarouk212103048@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedfarouk577">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📬 Email: your.email@example.com  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(لو عندك)*
-
----
-
-<p align="center">💻 Built with ❤️ by Ahmed Farouk</p>
+<p align="center">🧠 Keep building. Keep learning. Keep growing.</p>
