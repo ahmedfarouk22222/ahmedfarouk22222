@@ -4,9 +4,10 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <details>
-  <summary><strong>🎧 Busy coding & vibing to:</strong></summary>
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+  <summary><strong>💻 Developer Mode: ON</strong></summary>
+  <p>Focused, building something cool, and running on coffee ☕</p>
 </details>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedFarouk-dev&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedFarouk-dev&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS)
