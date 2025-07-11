@@ -8,10 +8,21 @@
   <p>Focused, building something cool, and running on coffee ☕</p>
 </details>
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedFarouk-dev&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedFarouk-dev&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS)
-[![linkedin badge](https://img.shields.io/badge/AhmedFarouk-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedfarouk577) <br>
+
+<!-- Contact Info Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmedfarouk577" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AhmedFarouk577-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:ahmedfarouk577@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ahmedfarouk577@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/ahmedfarouk577" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-AhmedFarouk577-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -52,3 +63,5 @@ class About extends Me {
     "OtherTools": { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
+
+<p align="center"> <a href="https://www.linkedin.com/in/ahmedfarouk577" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-AhmedFarouk577-blue?style=flat&logo=linkedin" /> </a> <a href="mailto:ahmedfarouk577@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-ahmedfarouk577@gmail.com-red?style=flat&logo=gmail&logoColor=white" /> </a> <a href="https://facebook.com/ahmedfarouk577" target="_blank"> <img src="https://img.shields.io/badge/Facebook-AhmedFarouk577-1877F2?style=flat&logo=facebook&logoColor=white" /> </a> </p> ``
