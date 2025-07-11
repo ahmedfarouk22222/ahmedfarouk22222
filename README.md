@@ -13,15 +13,13 @@
 
 <!-- Contact Info Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmedfarouk577" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmedfarouk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-AhmedFarouk577-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:ahmedmohamedfarouk212103048@gmail.com " target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ahmedmohamedfarouk212103048@gmail.com -red?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://facebook.com/ahmedfarouk577" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-AhmedFarouk577-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
+ 
 </p>
 
 </div>
