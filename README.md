@@ -30,6 +30,7 @@ I build **production Flutter apps** for iOS & Android, and design the **backends
 
 - 🔨 Going deep into **NestJS**: DI, guards, interceptors, TypeORM
 - 📖 Posting a chapter-by-chapter series on **Grokking Algorithms**
+- 📚 Read: *Grokking Algorithms* · *The Object-Oriented Thought Process*
 - 🧠 Studying backend fundamentals: protocols, databases, system design
 
 </td>
