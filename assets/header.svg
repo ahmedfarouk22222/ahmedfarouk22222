@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111a33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#02B5FF"/>
+      <stop offset="1" stop-color="#7C5CFF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#7C5CFF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.05" cy="0.95" r="0.5">
+      <stop offset="0" stop-color="#02B5FF" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#02B5FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+      .sans { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .k { fill: #C792EA; } .v { fill: #82AAFF; } .s { fill: #C3E88D; } .p { fill: #89DDFF; } .c { fill: #546E7A; } .w { fill: #E6EDF3; }
+      .ln { opacity: 0; animation: show 0.01s forwards; }
+      .l1 { animation-delay: 0.4s; } .l2 { animation-delay: 0.8s; } .l3 { animation-delay: 1.2s; }
+      .l4 { animation-delay: 1.6s; } .l5 { animation-delay: 2.0s; } .l6 { animation-delay: 2.4s; }
+      .l7 { animation-delay: 2.8s; } .l8 { animation-delay: 3.2s; } .l9 { animation-delay: 3.6s; }
+      @keyframes show { to { opacity: 1; } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .float { animation: float 6s ease-in-out infinite; }
+      @keyframes float { 50% { transform: translateY(-6px); } }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+      @keyframes pulse { 50% { opacity: 0.35; } }
+    </style>
+  </defs>
+
+  <rect width="900" height="380" rx="18" fill="url(#bg)"/>
+  <rect width="900" height="380" rx="18" fill="url(#grid)"/>
+  <rect width="900" height="380" rx="18" fill="url(#glow)"/>
+  <rect width="900" height="380" rx="18" fill="url(#glow2)"/>
+  <rect x="0.5" y="0.5" width="899" height="379" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <!-- Left: identity -->
+  <g class="sans">
+    <text x="48" y="78" font-size="14" fill="#8B98B8" letter-spacing="3">HELLO, WORLD — I'M</text>
+    <text x="46" y="128" font-size="46" font-weight="800" class="w">Ahmed Farouk</text>
+    <rect x="48" y="146" width="120" height="4" rx="2" fill="url(#accent)"/>
+    <text x="48" y="186" font-size="20" font-weight="600" fill="url(#accent)">Software Engineer</text>
+    <text x="48" y="212" font-size="15" fill="#8B98B8">Mobile &amp; Backend · @ MD-Labs</text>
+
+    <g transform="translate(48,246)">
+      <rect width="92" height="30" rx="15" fill="#02569B" fill-opacity="0.25" stroke="#02B5FF" stroke-opacity="0.6"/>
+      <text x="46" y="20" font-size="13" text-anchor="middle" fill="#7FD3FF" font-weight="600">Flutter</text>
+      <rect x="102" width="92" height="30" rx="15" fill="#3C873A" fill-opacity="0.25" stroke="#68A063" stroke-opacity="0.7"/>
+      <text x="148" y="20" font-size="13" text-anchor="middle" fill="#9BE08F" font-weight="600">Node.js</text>
+      <rect x="204" width="92" height="30" rx="15" fill="#E0234E" fill-opacity="0.2" stroke="#E0234E" stroke-opacity="0.7"/>
+      <text x="250" y="20" font-size="13" text-anchor="middle" fill="#FF8FA6" font-weight="600">NestJS</text>
+    </g>
+
+    <g transform="translate(48,316)">
+      <circle cx="6" cy="-4" r="5" fill="#3FB950" class="pulse"/>
+      <text x="20" y="1" font-size="13" fill="#8B98B8">Shipping on App Store · Google Play · LG webOS</text>
+    </g>
+  </g>
+
+  <!-- Right: code window -->
+  <g class="float">
+    <rect x="452" y="40" width="410" height="300" rx="12" fill="#0d1117" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.1"/>
+    <rect x="452" y="40" width="410" height="34" rx="12" fill="#161b22"/>
+    <rect x="452" y="62" width="410" height="12" fill="#161b22"/>
+    <circle cx="474" cy="57" r="6" fill="#FF5F56"/>
+    <circle cx="494" cy="57" r="6" fill="#FFBD2E"/>
+    <circle cx="514" cy="57" r="6" fill="#27C93F"/>
+    <text x="657" y="62" font-size="12" text-anchor="middle" fill="#8B98B8" class="mono">ahmed.ts</text>
+
+    <g class="mono" font-size="13.5" xml:space="preserve">
+      <text x="472" y="104" class="ln l1"><tspan class="k">const</tspan><tspan class="w"> ahmed </tspan><tspan class="p">= {</tspan></text>
+      <text x="472" y="128" class="ln l2"><tspan class="w">  role</tspan><tspan class="p">: </tspan><tspan class="s">"Software Engineer"</tspan><tspan class="p">,</tspan></text>
+      <text x="472" y="152" class="ln l3"><tspan class="w">  company</tspan><tspan class="p">: </tspan><tspan class="s">"MD-Labs"</tspan><tspan class="p">,</tspan></text>
+      <text x="472" y="176" class="ln l4"><tspan class="w">  mobile</tspan><tspan class="p">: [</tspan><tspan class="s">"Flutter"</tspan><tspan class="p">, </tspan><tspan class="s">"Dart"</tspan><tspan class="p">],</tspan></text>
+      <text x="472" y="200" class="ln l5"><tspan class="w">  backend</tspan><tspan class="p">: [</tspan><tspan class="s">"Node.js"</tspan><tspan class="p">, </tspan><tspan class="s">"NestJS"</tspan><tspan class="p">],</tspan></text>
+      <text x="472" y="224" class="ln l6"><tspan class="w">  data</tspan><tspan class="p">: [</tspan><tspan class="s">"MongoDB"</tspan><tspan class="p">, </tspan><tspan class="s">"PostgreSQL"</tspan><tspan class="p">],</tspan></text>
+      <text x="472" y="248" class="ln l7"><tspan class="w">  reading</tspan><tspan class="p">: </tspan><tspan class="s">"Grokking Algorithms"</tspan><tspan class="p">,</tspan></text>
+      <text x="472" y="272" class="ln l8"><tspan class="p">};</tspan></text>
+      <text x="472" y="304" class="ln l9"><tspan class="c">// building things that ship </tspan><tspan class="v cursor">▍</tspan></text>
+    </g>
+  </g>
+</svg>
