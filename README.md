@@ -57,7 +57,7 @@ I build **production Flutter apps** for iOS & Android, and design the **backends
 </tr>
 <tr>
 <td><a href="https://github.com/ahmedfarouk22222/ecommerce-nodejs-api"><img src="./assets/projects/ecommerce-api.svg" width="100%" alt="E-Commerce REST API" /></a></td>
-<td><a href="https://github.com/ahmedfarouk22222/Security-APP"><img src="./assets/projects/security-app.svg" width="100%" alt="Security App" /></a></td>
+<td><a href="https://github.com/ahmedfarouk22222/Security_APP"><img src="./assets/projects/security-app.svg" width="100%" alt="Security App" /></a></td>
 </tr>
 </table>
 
