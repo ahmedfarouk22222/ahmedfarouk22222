@@ -22,6 +22,7 @@ I build **production Flutter apps** for iOS & Android, and design the **backends
 - 📺 Took Flutter to **Smart TV** — video playback on LG webOS
 - 🔐 APIs with JWT, role-based access & Stripe webhooks
 - 🧱 Clean Architecture on mobile, layered services on the backend
+- 📚 Read *Grokking Algorithms* & *The Object-Oriented Thought Process*, and wrote a chapter-by-chapter series on Grokking
 
 </td>
 <td width="45%" valign="top">
@@ -29,8 +30,6 @@ I build **production Flutter apps** for iOS & Android, and design the **backends
 ### 🌱 Right now
 
 - 🔨 Going deep into **NestJS**: DI, guards, interceptors, TypeORM
-- 📖 Posting a chapter-by-chapter series on **Grokking Algorithms**
-- 📚 Read: *Grokking Algorithms* · *The Object-Oriented Thought Process*
 - 🧠 Studying backend fundamentals: protocols, databases, system design
 
 </td>
