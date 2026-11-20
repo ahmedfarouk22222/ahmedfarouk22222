@@ -1,65 +1,76 @@
-<div align="center" width="50">
+<a href="https://ahmedfarouk.space">
+  <img src="./assets/header.svg" width="100%" alt="Ahmed Farouk — Software Engineer, Flutter & Node.js" />
+</a>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
-
-<details>
-  <summary><strong>💻 Developer Mode: ON</strong></summary>
-  <p>Focused, building something cool, and running on coffee ☕</p>
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedFarouk-dev&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedFarouk-dev&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS)
-
-<!-- Contact Info Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmedfarouk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-AhmedFarouk577-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:ahmedmohamedfarouk212103048@gmail.com " target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-ahmedmohamedfarouk212103048@gmail.com -red?style=flat&logo=gmail&logoColor=white" />
-  </a>
- 
+  <a href="https://ahmedfarouk.space"><img src="https://img.shields.io/badge/Portfolio-ahmedfarouk.space-0d1117?style=for-the-badge&logo=googlechrome&logoColor=02B5FF" /></a>
+  <a href="https://www.linkedin.com/in/ahmedfarouk577"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:ahmedfarouk.dev1@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </p>
 
-</div>
+<br/>
 
-<hr>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+### ⚡ What I do
 
-```dart
-// tools_I_use organized
+I build **production Flutter apps** for iOS & Android at **MD-Labs**, and design the **backends** behind them with **Node.js** and **NestJS**.
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages": { "Dart", "C#", "Python", "Java", "C++" },
-    "OtherLanguages": { "HTML", "CSS", "Bash", "JSON" },
-    "Database": { "Firebase", "SQLite" },
-    "Editors": { "VSCode", "Xcode", "Sublime", "Neovim" },
-    "Platforms": { "GNU/Linux", "Windows" },
-    "OtherTools": { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
+- 📱 Apps live on the **App Store** & **Google Play**
+- 📺 Took Flutter to **Smart TV** — video playback on LG webOS
+- 🔐 APIs with JWT, role-based access & Stripe webhooks
+- 🧱 Clean Architecture on mobile, layered services on the backend
 
+</td>
+<td width="45%" valign="top">
 
+### 🌱 Right now
+
+- 🔨 Going deep into **NestJS**: DI, guards, interceptors, TypeORM
+- 📖 Posting a chapter-by-chapter series on **Grokking Algorithms**
+- 🧠 Studying backend fundamentals: protocols, databases, system design
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3 align="center">🛠️ Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,docker,git,postman&theme=dark" />
+</p>
+
+<br/>
+
+<h3 align="center">🚀 Featured Work</h3>
+
+<table align="center">
+<tr>
+<td><a href="https://apps.apple.com/us/app/md-hr-system/id6743755802"><img src="./assets/projects/md-hr.svg" width="100%" alt="MD-HR System" /></a></td>
+<td><a href="https://apps.apple.com/us/app/id1670320999"><img src="./assets/projects/rased.svg" width="100%" alt="Rased Al-Halaqat" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/ahmedfarouk22222/ecommerce-nodejs-api"><img src="./assets/projects/ecommerce-api.svg" width="100%" alt="E-Commerce REST API" /></a></td>
+<td><a href="https://github.com/ahmedfarouk22222/Security-APP"><img src="./assets/projects/security-app.svg" width="100%" alt="Security App" /></a></td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>Shipped apps link to the App Store · also on <a href="https://play.google.com/store/apps/details?id=com.mdlabs.hr.sys">Google Play (MD-HR)</a> and <a href="https://play.google.com/store/apps/details?id=org.maknon.monitor">Google Play (Rased)</a></sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedfarouk22222&style=flat-square&color=7C5CFF&label=profile+views" />
+</p>
