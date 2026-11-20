@@ -16,7 +16,7 @@
 
 ### ⚡ What I do
 
-I build **production Flutter apps** for iOS & Android at **MD-Labs**, and design the **backends** behind them with **Node.js** and **NestJS**.
+I build **production Flutter apps** for iOS & Android, and design the **backends** behind them with **Node.js** and **NestJS**.
 
 - 📱 Apps live on the **App Store** & **Google Play**
 - 📺 Took Flutter to **Smart TV** — video playback on LG webOS
